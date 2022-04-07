@@ -4,7 +4,7 @@ A lite, high performance tool for user to dump a process full memory just give a
 
 Proudly wrote & dbg with Vim in C, so easy to Build/Compile.
 
-No gdb used.
+No gdb used, No annoying dependencies, So work on almost all platform!
 
 ## How to build
 
