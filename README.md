@@ -1,4 +1,4 @@
-# Very lite Linux Memory Dumper
+# Very Lite Linux Memory Dumper
 
 A easy, lite tool for user to dump a process memory just give a pid.
 
