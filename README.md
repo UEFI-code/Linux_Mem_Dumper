@@ -1,8 +1,10 @@
 # Very Lite Linux Memory Dumper
 
-A easy, lite tool for user to dump a process memory just give a pid.
+A lite, high performance tool for user to dump a process full memory just give a pid.
 
 Proudly wrote & dbg with Vim in C, so easy to Build/Compile.
+
+No gdb used.
 
 ## How to build
 
